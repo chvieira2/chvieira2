@@ -1,6 +1,6 @@
 ### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
 ## Current activities
-I'm currently working on the [livablestreets](https://github.com/chvieira2/livablestreets) project. Livablestreets was the conclusion project of the Data Science bootcamp I completed in Jun 2022 at Le Wagon. This is a collaborative work co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941). Please check it out [here](https://livablestreets.herokuapp.com/)
+I'm currently working on the [livablestreets](https://github.com/chvieira2/livablestreets) project. Livablestreets was the conclusion project of the Data Science bootcamp I completed in Jun 2022 at Le Wagon. This is a collaborative work co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941). Please check it out [here](https://livablestreets.herokuapp.com/).
 
 ## Scientific work
 In my profile you'll also find several repositories associated with my scientific publications. For an extensive list of my research work, please refer to my [Google Scholar](https://scholar.google.com/citations?user=0A5L-RYAAAAJ&hl=en&oi=sra) or my [Orcid](https://orcid.org/0000-0001-5443-4507) pages. Here's a list of repositories associated with my published work:
