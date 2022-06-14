@@ -1,4 +1,4 @@
-### Hi there! Carlos (he/his) here. 👋 
+### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
 ## Current activities
 I'm currently working on the [livablestreets project](https://github.com/chvieira2/livablestreets). Livablestreets was the conclusion project of the bootcamp in Data Sciences I completed in Jun 2022 at Le Wagon. This is a collaborative work developed in colaboration with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941). Please check it out [here](https://livablestreets.herokuapp.com/)
 
