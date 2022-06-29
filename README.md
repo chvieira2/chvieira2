@@ -6,7 +6,7 @@ You can check it out [here](https://livablestreets.herokuapp.com/) or in the res
 
 
 ## Completed projects
-[Housing_crawler](https://github.com/chvieira2/housing_crawler)) is an application that collects housing ads from wg-gesucht.de and saves them as a .csv file. It was developed for displaying housing ads on the livablestreets project.
+[Housing_crawler](https://github.com/chvieira2/housing_crawler) is an application that collects housing ads from wg-gesucht.de and saves them as a .csv file. It was developed for displaying housing ads on the livablestreets project.
 
 
 ## Scientific work
