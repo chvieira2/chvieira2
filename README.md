@@ -1,12 +1,14 @@
 ### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
-## Current projects
-Livablestreets was develop as the conclusion project for the Data Science bootcamp I completed in Jun 2022 at Le Wagon. The project was co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941), and continues growing even after the bootcamp. Stay tuned!
 
-You can check it out [here](https://livablestreets.herokuapp.com/) or in the respective [repository](https://github.com/chvieira2/livablestreets).
+## Current projects
+[Livablestreets](https://github.com/chvieira2/livablestreets) is a webservice that estimates living conditions in cities all over the world at streets level.
+This project was was originally co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941) as the conclusion project for the Data Science bootcamp I completed in Jun 2022 at Le Wagon. Since then, I've continued working to improve and further develop the webservice even after the bootcamp. Stay tuned!
+
+You can check out the webpage [here](https://livablestreets.herokuapp.com/).
 
 
 ## Completed projects
-[Housing_crawler](https://github.com/chvieira2/housing_crawler) is an application that collects housing ads from wg-gesucht.de and saves them as a .csv file. It was developed for displaying housing ads on the livablestreets project.
+[Housing_crawler](https://github.com/chvieira2/housing_crawler) is an application that collects housing ads from wg-gesucht.de and saves them as a .csv file. It was developed for collecting housing ads for the [livablestreets](https://github.com/chvieira2/livablestreets) project.
 
 
 ## Scientific work
