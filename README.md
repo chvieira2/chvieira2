@@ -1,6 +1,6 @@
 ### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/chvieira2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/chvieira2?tab=followers)
 
 
 ## Current projects
