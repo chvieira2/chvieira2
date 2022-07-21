@@ -2,7 +2,7 @@
 
 [![chvieira2's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chvieira2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chvieira2.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 ## Current projects
 [Livablestreets](https://github.com/chvieira2/livablestreets) is a webservice that estimates living conditions in cities all over the world at streets level.
