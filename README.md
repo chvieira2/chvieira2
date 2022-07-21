@@ -1,7 +1,7 @@
 ### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
 
 [![chvieira2's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chvieira2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 ## Current projects
 [Livablestreets](https://github.com/chvieira2/livablestreets) is a webservice that estimates living conditions in cities all over the world at streets level.
