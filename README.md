@@ -1,5 +1,8 @@
 ### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
 
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
+
 ## Current projects
 [Livablestreets](https://github.com/chvieira2/livablestreets) is a webservice that estimates living conditions in cities all over the world at streets level.
 This project was was originally co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941) as the conclusion project for the Data Science bootcamp I completed in Jun 2022 at Le Wagon. Since then, I've continued working to improve and further develop the webservice even after the bootcamp. Stay tuned!
