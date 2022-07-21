@@ -1,6 +1,6 @@
 ### Hi there! [Carlos](https://www.canva.com/design/DAFDka_ylKY/V-MMMoJv639cr9I8bn8mIQ/view?utm_content=DAFDka_ylKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (he/his) here. 👋 
 
-![Profile views](https://gpvc.arturio.dev/chvieira2)
+[![chvieira2's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chvieira2&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Current projects
