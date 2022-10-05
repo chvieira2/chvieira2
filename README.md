@@ -5,14 +5,16 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chvieira2.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 ## Current projects
-[Housing_crawler](https://github.com/chvieira2/housing_crawler) is an application that collects housing ads from wg-gesucht.de and saves them as a .csv file. It was developed for collecting housing ads for the [livablestreets](https://github.com/chvieira2/livablestreets) project.
+[Housing_crawler](https://github.com/chvieira2/housing_crawler) is an application that collects housing ads from wg-gesucht.de and saves them as a .csv file. It  was originally developed for collecting housing ads for the [livablestreets](https://github.com/chvieira2/livablestreets) project but I've expanded it's use beyond it.
 
-So far, I've collected +50.000 flatshare, single-room homes, flats and houses all over Germany from wg-gesucht.de. This will be used for an in deepth analysis of flatshare market in Germany and to create a predictive model of flatshare prices.
+So far, I've collected +80.000 flatshare, single-room homes, flats and houses all over Germany from wg-gesucht.de. This is being used for an in deepth analysis of flatshare market in Germany and to create a predictive model of flatshare prices [(wg_price_predictor)](https://github.com/chvieira2/wg_price_predictor).
+
+Currently, I am building a database for the collected data and an API service for the predictor. This will be compiled in a web service for WG users.
 
 
 ## Completed projects
-[Livablestreets](https://github.com/chvieira2/livablestreets) is a webservice that estimates living conditions in cities all over the world at streets level.
-This project was was originally co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941) as the conclusion project for the Data Science bootcamp I completed in Jun 2022 at Le Wagon. Since then, I've continued working to improve and further develop the webservice even after the bootcamp. Stay tuned!
+[Livablestreets](https://github.com/chvieira2/livablestreets) is a web service that calculates living quality in cities all over the world at streets level.
+This project was was originally co-created with [Laia Grobe](https://github.com/Laiagdla), [Ieva Bidermane](https://github.com/ievabi) and [Nicolas Quiroga](https://github.com/nicoquiroga941) as the conclusion project for the Data Science bootcamp I completed in Jun 2022 at Le Wagon. Since then, I've continued working to improve and further develop the web service. Since September 2022 the webservice is maintained by [deep-urbanism](https://github.com/deep-urbanism/livablestreets), which I am a co-founder.
 
 You can check out the webpage [here](https://livablestreets.herokuapp.com/).
 
